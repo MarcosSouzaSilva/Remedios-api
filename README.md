@@ -29,26 +29,11 @@ my-spring-boot-project
 
 
 
-my-spring-boot-project
-│   mvnw
-│   mvnw.cmd
-│   pom.xml
-└───src
-    └───main
-        ├───java
-        │   └───br
-        │       └───com
-        │           └───marcos
-        │               └───projeto
-        │                   └───cursospringboot2
-        │                       ├───controllers
-        │                       ├───infra
-        │                       ├───remedio
-        │                       └───usuarios
-        └───resources
-            └───application.properties
-
-
+Estrutura do Projeto
+controllers/: Controladores da API para endpoints relacionados ao gerenciamento de remédios.
+infra/: Classes utilitárias e de infraestrutura, como o serviço de geração e validação de tokens JWT.
+remedio/: Entidades, DTOs (Data Transfer Objects) e repositórios relacionados aos remédios.
+usuarios/: Classes relacionadas aos usuários do sistema, incluindo entidades e serviço de autenticação.
 
 
             
