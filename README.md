@@ -26,6 +26,9 @@ Estrutura do Projeto
 A estrutura básica do projeto é a seguinte:
 my-spring-boot-project
 
+
+
+
 my-spring-boot-project
 │   mvnw
 │   mvnw.cmd
@@ -44,6 +47,8 @@ my-spring-boot-project
         │                       └───usuarios
         └───resources
             └───application.properties
+
+
 
 
             
