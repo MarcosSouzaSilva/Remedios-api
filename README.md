@@ -25,6 +25,8 @@ Configuração da IDE: Configure sua IDE preferida para suportar o desenvolvimen
 Estrutura do Projeto
 A estrutura básica do projeto é a seguinte:
 my-spring-boot-project
+
+my-spring-boot-project
 │   mvnw
 │   mvnw.cmd
 │   pom.xml
@@ -42,6 +44,9 @@ my-spring-boot-project
         │                       └───usuarios
         └───resources
             └───application.properties
+
+
+            
 Dependências
 As principais dependências utilizadas neste projeto são:
 
